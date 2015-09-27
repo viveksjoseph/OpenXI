@@ -150,3 +150,6 @@ tests/cpp-tests/Resources/audio
 
 # ignore cocos2d engine files
 OpenXI/cocos2d/*
+
+# ignore project preferences and settings
+OpenXI/proj.android/.settings/org.eclipse.cdt.core.prefs
